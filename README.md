@@ -7,7 +7,7 @@ A package that make request to Giphy API
 php
 “require”: {
     ...
-    "owen/sc-code-challenge": "*",
+    "owen/sc-code-challenge": "dev-master",
     
 }
 ```
