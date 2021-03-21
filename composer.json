@@ -1,0 +1,22 @@
+{
+    "name": "owen/sc-code-challenge",
+    "description": "Code Challenge for Smooth Commerce that make request to Giphy API",
+    "keywords": ["giphy", "api"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Owen Ip",
+            "email": "ipowen10@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.1",
+        "guzzlehttp/guzzle": "7.2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Giphy\\": "src/"
+        }
+    }
+}
