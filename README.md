@@ -3,8 +3,7 @@
 A package that make request to Giphy API
 
 ### Composer
-```
-php
+```php
 “require”: {
     ...
     "owen/sc-code-challenge": "dev-master",
